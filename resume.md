@@ -98,9 +98,22 @@ Repo](https://github.com/lincolnck/school_crime)
 
 ### Johns Hopkins University
 - M.S.E. Biomedical Engineering *May 2021*
+
 ### Brigham Young University
 - B.S. Neuroscience and Russian *June 2019*
 
 ## Skills
-
+- Python (Numpy, Scipy, Scikit-learn, Keras, PyTorch, Jupyter, etc.)
+- R (Dplyr, Tidyverse, GGPlot2, Caret, Shiny, Flexdashboard, etc.)
+- MATLAB
+- Mathematica
+- C++
+- SQL
+- LaTeX
+- Github
+- Tableau
+- UNIX, Bash
+- JMP Pro 14
+- Microsoft (Word, Excel, Powerpoint, etc.)
+- Google (Docs, Sheets, Forms, Colab, etc.)
 
