@@ -6,6 +6,7 @@ title: Books
 ## 2021
 
 - 12 More Rules for Life, *Jordan Peterson*
+		start the review
 - The Moneyless Man, *Mark Boyle*
 - A Grief Observed, *C.S. Lewis*
 - 1984, *George Orwell*
@@ -39,25 +40,25 @@ title: Books
 
 ## 2019
 
-- A Brave New World, *Huxley*
-- American Sniper, *Kyle*
-- Talking to Strangers, *Gladwell*
-- Великий инквизитор, *Dostoevsky*
+- A Brave New World, *Aldous Huxley*
+- American Sniper, *Chris Kyle*
+- Talking to Strangers, *Malcolm Gladwell*
+- Великий инквизитор, *Fyodor Dostoevsky*
 - Economics in One Lesson, *Hazlitt*
-- Being Mortal, *Gawande*
-- Man’s Search for Meaning, *Frankl*
+- Being Mortal, *Atul Gawande*
+- Man’s Search for Meaning, *Viktor Frankl*
 - When The Air Hits Your Brain, *Vertosick*
-- With The Old Breed: at Peleliu and Okinawa, *Sledge*
+- With The Old Breed: at Peleliu and Okinawa, *Eugene Sledge*
 - A Short History of Nearly Everything, *Bill Bryson*
 - The Great Influenza, *Barry*
 - Rejection Proof, *Jiang*
-- The Power of Habit, *Duhigg*
+- The Power of Habit, *Charles Duhigg*
 - I Will Teach You To Be Rich, *Sethi*
 - Goodbye Things, *Sasaki*
-- Animal Vegetable Miracle, *Kingsolver*
+- Animal Vegetable Miracle, *Barbara Kingsolver*
 - Human Errors, *Lents*
 - The Joy of X, *Strogatz*
-- Factfulness, *Rosling*
+- Factfulness, *Hans Rosling*
 - The President is Missing, *Patterson*
-- Rich Dad Poor Dad, *Kiyosaki*
-- Educated, *Westover*
+- Rich Dad Poor Dad, *Robert Kiyosaki*
+- Educated, *Tara Westover*
