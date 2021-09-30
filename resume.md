@@ -106,7 +106,7 @@ Repo](https://github.com/lincolnck/school_crime)
 - Python (Numpy, Scipy, Scikit-learn, Keras, PyTorch, Jupyter, etc.)
 - R (Dplyr, Tidyverse, GGPlot2, Caret, Shiny, Flexdashboard, etc.)
 - MATLAB
-- Mathematicaa
+- Mathematica
 - C++
 - SQL
 - LaTeX
