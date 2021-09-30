@@ -6,6 +6,7 @@ title: Books
 ## 2021
 
 - 12 More Rules for Life, *Jordan Peterson*
+
 		start the review
 - The Moneyless Man, *Mark Boyle*
 - A Grief Observed, *C.S. Lewis*
