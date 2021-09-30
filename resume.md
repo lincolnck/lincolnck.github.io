@@ -3,16 +3,10 @@ layout: page
 title: Resume
 ---
 
-::: multicols
-2
-:::
+## Work Experience
 
-width
-
-::: paracol
-2
-
-/2021 - Current\
+### Clinical Research Specialist
+June 2021 - Current\
 *Department of Diagnostic Radiology and Nuclear Medicine, University of
 Maryland Baltimore - Baltimore, Maryland*
 
@@ -20,7 +14,8 @@ Maryland Baltimore - Baltimore, Maryland*
     look at functional differences between different patient groups,
     including HIV, Covid-19, and autism.
 
-/2020 - 06/2021\
+### Graduate Researcher
+August 2020 - June 2021\
 *Department of Radiology, Johns Hopkins School of Medicine - Baltimore,
 Maryland*
 
@@ -34,7 +29,8 @@ Maryland*
 -   Presented findings at International Society for Magnetic Resonance
     in Medicine 2021 Annual Meeting.
 
-/2018 - 06/2019\
+### Research Assistant
+September 2018 - June 2019\
 *Department of Mathematics, Brigham Young University - Provo, Utah*
 
 -   Wrote MatLab scripts to model properties of collagen lattices.
@@ -42,7 +38,8 @@ Maryland*
 -   Ran statistical analysis on results of simulations of contraction in
     collagen lattices.
 
-/2016 - 06/2019\
+### Research Assistant
+January 2016 - June 2019\
 *Department of Chemical Engineering, Brigham Young University - Provo,
 Utah*
 
@@ -58,6 +55,9 @@ Utah*
     technique, animal care, inhalation anesthesia, and requisite
     surgical techniques.
 
+## Projects
+
+### Visualizing COVID-19 Data
 [Shiny App](https://lincolnck.shinyapps.io/covid_dashboard/), [GitHub
 Repo](https://github.com/lincolnck/coronavirus_flexdashboard)
 
@@ -67,6 +67,7 @@ Repo](https://github.com/lincolnck/coronavirus_flexdashboard)
 -   The raw data was sourced from the JHU COVID-19 Data Repository and
     cleaned and processed for the various visualizations.
 
+### Detecting Seizures in EEG Data
 [Jupyter Notebook on GitHub](https://github.com/lincolnck/eeg_seizure)
 
 -   Explored binary classification of seizure vs. non-seizure activity
@@ -78,6 +79,7 @@ Repo](https://github.com/lincolnck/coronavirus_flexdashboard)
 -   Demonstrated feasibility of detecting seizure activity using SciKit,
     Keras and Python machine learning tools.
 
+### Predicting Risk of School Violence
 [Shiny App](https://lincolnck.shinyapps.io/school_crime/), [GitHub
 Repo](https://github.com/lincolnck/school_crime)
 
@@ -91,4 +93,14 @@ Repo](https://github.com/lincolnck/school_crime)
 
 -   This project was built in R, using various packages, and deployed on
     ShinyApps.
-:::
+
+## Education
+
+### Johns Hopkins University
+- M.S.E. Biomedical Engineering *May 2021*
+### Brigham Young University
+- B.S. Neuroscience and Russian *June 2019*
+
+## Skills
+
+
