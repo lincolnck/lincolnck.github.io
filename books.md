@@ -5,207 +5,207 @@ title: Books
 
 ## 2021
 
-- 12 More Rules for Life, *Jordan Peterson*
+- **12 More Rules for Life**, *Jordan Peterson*
 
 	review coming...
 
-- The Moneyless Man, *Mark Boyle*
+- **The Moneyless Man**, *Mark Boyle*
 
 	review coming...
 
-- A Grief Observed, *C.S. Lewis*
+- **A Grief Observed**, *C.S. Lewis*
 
 	review coming...
 
-- 1984, *George Orwell*
+- **1984**, *George Orwell*
 
 	review coming...
 
-- Why We Make Things and Why it Matters, *Peter Korn*
+- **Why We Make Things and Why it Matters**, *Peter Korn*
 
 	review coming...
 
-- Animal Farm, *George Orwell*
+- **Animal Farm**, *George Orwell*
 
 	review coming...
 
-- Metamorphosis, *Franz Kafka*
+- **Metamorphosis**, *Franz Kafka*
 
 	review coming...
 
-- The Subtle Art of Not Giving a F\*ck, *Mark Manson*
+- **The Subtle Art of Not Giving a F\*ck**, *Mark Manson*
 
 	review coming...
 
-- The Midnight Library, *Matt Haig*
+- **The Midnight Library**, *Matt Haig*
 
 	review coming...
 
-- The Backyard Adventurer, *Beau Miles*
+- **The Backyard Adventurer**, *Beau Miles*
 
 	review coming...
 
-- The Way Home, *Mark Boyle*
+- **The Way Home**, *Mark Boyle*
 
 	review coming...
 
-- English History Made Brief, *Smith*
+- **English History Made Brief**, *Smith*
 
 	review coming...
 
 ## 2020
 
-- The Body, *Bill Bryson*
+- **The Body**, *Bill Bryson*
 
 	review coming...
 
-- Call of the Wild, *Jack London*
+- **Call of the Wild**, *Jack London*
 
 	review coming...
 
-- Leonardo da Vinci, *Walter Isaacson*
+- **Leonardo da Vinci**, *Walter Isaacson*
 
 	review coming...
 
-- 12 Rules For Life, *Jordan Peterson*
+- **12 Rules For Life,** *Jordan Peterson*
 
 	review coming...
 
-- Heart of Darkness, *Josef Conrad*
+- **Heart of Darkness**, *Josef Conrad*
 
 	review coming...
 
-- Make Your Bed, *McRaven*
+- **Make Your Bed**, *McRaven*
 
 	review coming...
 
-- How to Lie with Statistics, *Huff*
+- **How to Lie with Statistics**, *Huff*
 
 	review coming...
 
-- A Walk in the Woods, *Bill Bryson*
+- **A Walk in the Woods**, *Bill Bryson*
 
 	review coming...
 
-- Extreme Ownership, *Willink/Babin*
+- **Extreme Ownership**, *Willink/Babin*
 
 	review coming...
 
-- Following Christ, *Wright*
+- **Following Christ**, *Wright*
 
 	review coming...
 
-- The Jungle, *Sinclair*
+- **The Jungle**, *Sinclair*
 
 	review coming...
 
-- Sapiens: A brief history of humankind, *Harari*
+- **Sapiens: A brief history of humankind**, *Harari*
 
 	review coming...
 
-- The Way Home, *Boyle*
+- **The Way Home**, *Boyle*
 
 	review coming...
 
-- Misreading Scripture through Western Eyes, *O’Brien/Richards*
+- **Misreading Scripture through Western Eyes**, *O’Brien/Richards*
 
 	review coming...
 
-- The Things They Carried, *O’Brien*
+- **The Things They Carried**, *O’Brien*
 
 	review coming...
 
-- Thunderbolt Kid, *Bill Bryson*
+- **Thunderbolt Kid**, *Bill Bryson*
 
 	review coming...
 
 
 ## 2019
 
-- A Brave New World, *Aldous Huxley*
+- **A Brave New World**, *Aldous Huxley*
 
 	review coming...
 
-- American Sniper, *Chris Kyle*
+- **American Sniper**, *Chris Kyle*
 
 	review coming...
 
-- Talking to Strangers, *Malcolm Gladwell*
+- **Talking to Strangers**, *Malcolm Gladwell*
 
 	review coming...
 
-- Великий инквизитор, *Fyodor Dostoevsky*
+- **Великий инквизитор**, *Fyodor Dostoevsky*
 
 	review coming...
 
-- Economics in One Lesson, *Hazlitt*
+- **Economics in One Lesson**, *Hazlitt*
 
 	review coming...
 
-- Being Mortal, *Atul Gawande*
+- **Being Mortal**, *Atul Gawande*
 
 	review coming...
 
-- Man’s Search for Meaning, *Viktor Frankl*
+- **Man’s Search for Meaning**, *Viktor Frankl*
 
 	review coming...
 
-- When The Air Hits Your Brain, *Vertosick*
+- **When The Air Hits Your Brain**, *Vertosick*
 
 	review coming...
 
-- With The Old Breed: at Peleliu and Okinawa, *Eugene Sledge*
+- **With The Old Breed: at Peleliu and Okinawa**, *Eugene Sledge*
 
 	review coming...
 
-- A Short History of Nearly Everything, *Bill Bryson*
+- **A Short History of Nearly Everything**, *Bill Bryson*
 
 	review coming...
 
-- The Great Influenza, *Barry*
+- **The Great Influenza**, *Barry*
 
 	review coming...
 
-- Rejection Proof, *Jiang*
+- **Rejection Proof**, *Jiang*
 
 	review coming...
 
-- The Power of Habit, *Charles Duhigg*
+- **The Power of Habit**, *Charles Duhigg*
 
 	review coming...
 
-- I Will Teach You To Be Rich, *Sethi*
+- **I Will Teach You To Be Rich**, *Sethi*
 
 	review coming...
 
-- Goodbye Things, *Sasaki*
+- **Goodbye Things**, *Sasaki*
 
 	review coming...
 
-- Animal Vegetable Miracle, *Barbara Kingsolver*
+- **Animal Vegetable Miracle**, *Barbara Kingsolver*
 
 	review coming...
 
-- Human Errors, *Lents*
+- **Human Errors**, *Lents*
 
 	review coming...
 
-- The Joy of X, *Strogatz*
+- **The Joy of X**, *Strogatz*
 
 	review coming...
 
-- Factfulness, *Hans Rosling*
+- **Factfulness**, *Hans Rosling*
 
 	review coming...
 
-- The President is Missing, *Patterson*
+- **The President is Missing**, *Patterson*
 
 	review coming...
 
-- Rich Dad Poor Dad, *Robert Kiyosaki*
+- **Rich Dad Poor Dad**, *Robert Kiyosaki*
 
 	review coming...
 
-- Educated, *Tara Westover*
+- **Educated**, *Tara Westover*
 
 	review coming...
