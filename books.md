@@ -49,9 +49,9 @@ title: Books
 
 	review coming...
 
-- **English History Made Brief**, *Smith*
+- [**English History Made Brief, Irreverent, and Pleasurable**](https://lincolnck.github.io/2021/09/30/English-History-Made-Brief.html), *Lacey Baldwin Smith*
 
-	review coming...
+	[Amazon Kindle](https://amzn.to/3B0LvSX)
 
 ## 2020
 
