@@ -49,7 +49,7 @@ title: Books
 
 	review coming...
 
-- **English History Made Brief**, *Smith*
+- **[English History Made Brief]**(https://lincolnck.github.io/2021/09/30/English-History-Made-Brief.html), *Smith*
 
 	review coming...
 
